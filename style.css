@@ -1,0 +1,50 @@
+.drapeau{
+    background-color: grey;
+    border: 1px solid blue;
+    padding: 25px;
+    text-align: center;
+}
+img{
+    display: inline;
+    width: 50px;
+}
+.france{
+    color: blue;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.textfrance{
+    background-color: grey;
+    border: 1px solid blue;
+    padding: 10px;
+
+}
+span{
+    text-decoration: underline;
+    color: blue;
+}
+.info{
+    color: blue;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.textinfo{
+    background-color: grey;
+    border: 1px solid blue;
+    padding: 10px;
+}
+.ville{
+    color: blue;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+table{
+    border: 1px solid blue;
+    padding: 3px;
+}
+td{
+    border: 1px solid blue;
+}
+thead{
+    background-color: grey;
+}
